@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5dd3df2f-392f-4932-b0c5-946d634177bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -91,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="44" selection-start-column="44" selection-end-column="44" />
+            <state relative-caret-position="126">
+              <caret line="7" column="5" lean-forward="true" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -366,18 +365,17 @@
       <option name="presentableId" value="Default" />
       <updated>1535645510857</updated>
       <workItem from="1535645513336" duration="597000" />
-      <workItem from="1535663633304" duration="1488000" />
+      <workItem from="1535663633304" duration="2284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5110000" />
+    <option name="totallyTimeSpent" value="5998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -390,7 +388,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32917318" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32917318" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32917318" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -478,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="true" selection-end-line="74" />
         </state>
       </provider>
     </entry>
